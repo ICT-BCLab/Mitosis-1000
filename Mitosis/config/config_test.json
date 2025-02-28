@@ -1,0 +1,15 @@
+{
+  "version": "V0",
+  "topology": {
+    "RShardIds": [1, 2],
+    "PShardIds": {
+      "1": [1001, 1002],
+      "2": [1003, 1004]
+    }
+  },
+  "nodes": {},
+  "nodeNumPerShard": 4,
+  "nodeId": 12,
+  "shardId": 1001,
+  "bootnode": "/ip4/127.0.0.1/tcp/52158/p2p/12D3KooWSJdfD8ygLSQCHCxXVEc6yt2K7YXeCUzJE1LsSzETDmQ1"
+}
